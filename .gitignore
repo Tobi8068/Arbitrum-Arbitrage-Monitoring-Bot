@@ -1,0 +1,5 @@
+/target
+.env
+liquidity_price.log
+simulation.log
+fee.log

@@ -1,0 +1,229 @@
+[
+    {
+      "Pair": "ARB/WETH",
+      "UniSwap": {
+        "PairAddress": "0xc6f780497a95e246eb9449f5e4770916dcd6396a",
+        "Liquidity": 10000000
+      },
+      "Camelot": {
+        "PairAddress": "0xe51635ae8136abac44906a8f230c2d235e9c195f",
+        "Liquidity": 440000
+      },
+      "PancakeSwap": {
+        "PairAddress": "0x11d53ec50bc8f54b9357fbfe2a7de034fc00f8b3",
+        "Liquidity": 107000
+      }
+    },
+    {
+      "Pair": "WBTC/WETH",
+      "UniSwap": {
+        "PairAddress": "0x2f5e87c9312fa29aed5c179e456625d79015299c",
+        "Liquidity": 39400000
+      },
+      "Camelot": {
+        "PairAddress": "0xd845f7d4f4deb9ff5bcf09d140ef13718f6f6c71",
+        "Liquidity": 1100000
+      },
+      "PancakeSwap": {
+        "PairAddress": "0x4bfc22a4da7f31f8a912a79a7e44a822398b4390",
+        "Liquidity": 873000
+      }
+    },
+    {
+      "Pair": "ZRO/WETH",
+      "UniSwap": {
+        "PairAddress": "0x4cef551255ec96d89fec975446301b5c4e164c59",
+        "Liquidity": 1000000
+      },
+      "Camelot": {
+        "PairAddress": "0x105ba85d9047daf3f9fe941d8188d4b9a6900388",
+        "Liquidity": 231000
+      },
+      "PancakeSwap": {
+        "PairAddress": "0xf0346b437fe43e64fa799c2bd3cf5db1f7e9327c",
+        "Liquidity": 115000
+      }
+    },
+    {
+      "Pair": "LiNK/WETH",
+      "UniSwap": {
+        "PairAddress": "0x468b88941e7cc0b88c1869d68ab6b570bcef62ff",
+        "Liquidity": 4200000
+      },
+      "Camelot": {
+        "PairAddress": "0xe8795cf9c2309ecfe05df028eb0f21d5d6e3a951",
+        "Liquidity": 1000000
+      },
+      "PancakeSwap": {
+        "PairAddress": "0x0ba3d55678c019b8101061855fe4ea8d3ece784f",
+        "Liquidity": 22000
+      }
+    },
+    {
+      "Pair": "TIA.n/WETH",
+      "Camelot": {
+        "PairAddress": "0x1818ff61ba19c06a554c803ed98b603d5b7d1b43",
+        "Liquidity": 73000
+      },
+      "PancakeSwap": {
+        "PairAddress": "0xfeb104864f3ad0c75e6b1bb4a0edb3f89e562e6e",
+        "Liquidity": 113000
+      }
+    },
+    {
+      "Pair": "CRV/WETH",
+      "UniSwap": {
+        "PairAddress": "0xa95b0f5a65a769d82ab4f3e82842e45b8bbaf101",
+        "Liquidity": 1300000
+      },
+      "PancakeSwap": {
+        "PairAddress": "0xdd8d6624a601ab4f0c898dfd04aabfbeaa0ff317",
+        "Liquidity": 87000
+      }
+    },
+    {
+      "Pair": "AAVE/WETH",
+      "UniSwap": {
+        "PairAddress": "0xdd672b3b768a16b9bcb4ee1060d3e8221435beaa",
+        "Liquidity": 1900000
+      },
+      "PancakeSwap": {
+        "PairAddress": "0x80ceb98632409080924dce50c26acc25458dde17",
+        "Liquidity": 27000
+      }
+    },
+    {
+      "Pair": "tBTC/WETH",
+      "UniSwap": {
+        "PairAddress": "0xcb198a55e2a88841e855be4eacaad99422416b33",
+        "Liquidity": 585000
+      },
+      "PancakeSwap": {
+        "PairAddress": "0x679b75a47a4b61058fafd5eda8dba2726eac7523",
+        "Liquidity": 5300
+      }
+    },
+    {
+      "Pair": "wsteth/Weth",
+      "UniSwap": {
+        "PairAddress": "0x35218a1cbaC5Bbc3E57fd9Bd38219D37571b3537",
+        "Liquidity": 1900000
+      },
+      "Camelot": {
+        "PairAddress": "0x5201f6482EEA49c90FE609eD9d8F69328bAc8ddA",
+        "Liquidity": 66000
+      },
+      "PancakeSwap": {
+        "PairAddress": "0x3ABBbBb4C254b9327F1a0580BdbCcb51B0b5Fb08",
+        "Liquidity": 39000
+      }
+    },
+    {
+      "Pair": "PELNDLE/WETH",
+      "UniSwap": {
+        "PairAddress": "0xdbaeb7f0dfe3a0aafd798ccecb5b22e708f7852c",
+        "Liquidity": 5000000
+      },
+      "Camelot": {
+        "PairAddress": "0xe461f84c3fe6bcdd1162eb0ef4284f3bb6e4cad3",
+        "Liquidity": 917000
+      },
+      "PancakeSwap": {
+        "PairAddress": "0x042691f78269ba3d6325c945044239758aecc275",
+        "Liquidity": 24000
+      }
+    },
+    {
+      "Pair": "XAI/WETH",
+      "UniSwap": {
+        "PairAddress": "0x03a33aee5f4947b9c1cde042c5f037d1be304be7",
+        "Liquidity": 104000
+      },
+      "Camelot": {
+        "PairAddress": "0xba1cf57b1a7401cc24622366808cea1f209a2c50",
+        "Liquidity": 105000
+      }
+    },
+    {
+      "Pair": "weETH/WETH",
+      "UniSwap": {
+        "PairAddress": "0xd90660a0b8ad757e7c1d660ce633776a0862b087",
+        "Liquidity": 106000
+      },
+      "Camelot": {
+        "PairAddress": "0x293dfd996d5cd72bed712b0eeab96dbe400c0416",
+        "Liquidity": 3300000
+      },
+      "PancakeSwap": {
+        "PairAddress": "0x64dae6685725dbd0a0e63fe522c9134d0eaa7258",
+        "Liquidity": 45000
+      }
+    },
+    {
+      "Pair": "Lava/WETH",
+      "UniSwap": {
+        "PairAddress": "0x4f122edcd91af8cda38c3a87158afa8687bab57c",
+        "Liquidity": 509000
+      },
+      "PancakeSwap": {
+        "PairAddress": "0xc01a173e88c7b896245a905ddc10375a5c887e9c",
+        "Liquidity": 50000
+      }
+    },
+    {
+      "Pair": "SILO/WETH",
+      "UniSwap": {
+        "PairAddress": "0xd3e11119d2680c963f1cdcffece0c4ade823fb58",
+        "Liquidity": 729000
+      },
+      "Camelot": {
+        "PairAddress": "0xc7349af293747ddf3336a05e16355e6a10e35b7e",
+        "Liquidity": 119000
+      }
+    },
+    {
+      "Pair": "GNS/WETH",
+      "UniSwap": {
+        "PairAddress": "0xc91b7b39bbb2c733f0e7459348fd0c80259c8471",
+        "Liquidity": 95000
+      },
+      "Camelot": {
+        "PairAddress": "0x9b6ff025aee245d314c09f57b72f0de6e231c3a6",
+        "Liquidity": 737000
+      }
+    },
+    {
+      "Pair": "GMX/WETH",
+      "UniSwap": {
+        "PairAddress": "0x80a9ae39310abf666a87c743d6ebbd0e8c42158e",
+        "Liquidity": 14500000
+      },
+      "Camelot": {
+        "PairAddress": "0xc99be44383bc8d82357f5a1d9ae9976ee9d75bee",
+        "Liquidity": 430000
+      }
+    },
+    {
+      "Pair": "APE/WETH",
+      "UniSwap": {
+        "PairAddress": "0x7bfe20d25e87fb5b8ff08c51b2843a5ac2110360",
+        "Liquidity": 19000
+      },
+      "Camelot": {
+        "PairAddress": "0x4b0495c5f5147051ba5fa025424d393d343d10bf",
+        "Liquidity": 506000
+      }
+    },
+    {
+      "Pair": "SOL/WETH",
+      "UniSwap": {
+        "PairAddress": "0xdaf544bcab17e2dcd293c3af28e67c7e8b5a49ee",
+        "Liquidity": 41000
+      },
+      "PancakeSwap": {
+        "PairAddress": "0x1e59fa2f0f4e34649fae55222eaf4d730ed35d95",
+        "Liquidity": 22000
+      }
+    }
+  ]
+  
