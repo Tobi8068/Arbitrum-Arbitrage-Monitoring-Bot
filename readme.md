@@ -11,7 +11,7 @@ A DEX arbitrage scanner bot that monitors price differences between Uniswap, Pan
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Kokle85/Scanner-Bot.git
+[git clone https://github.com/Kokle85/Scanner-Bot.git](https://github.com/Tobi8068/Arbitrum-Arbitrage-Monitoring-Bot.git)
 ```
 
 ```bash
